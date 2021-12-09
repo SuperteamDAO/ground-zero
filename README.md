@@ -1,8 +1,18 @@
 # About Ground Zero
 
+
+
 Ground Zero is a project by members of [Superteam DAO](https://superteam.fun) to help people learn about the basics of the crypto ecosystem for free.
 
 We accomplish this by curating info about various topics with a quick summary, which includes videos, articles & tweets to help you understand the basics of the topic- all freely available to the public.
+
+### Topics Covered
+
+![https://groundzero.superteam.fun/introduction](.gitbook/assets/Intro\_Ground\_Zero.png)
+
+![https://groundzero.superteam.fun/dao](.gitbook/assets/Ground\_Zero\_Option\_2\_1.png)
+
+![https://groundzero.superteam.fun/nft](.gitbook/assets/NFT\_Ground\_Zero.png)
 
 ### Core Contributors
 
