@@ -1,4 +1,4 @@
-# ❓ How is it useful ??
+# ❓ How is it useful ?
 
 {% hint style="success" %}
 Contributors: [@rajkaria](https://github.com/rajkaria)
