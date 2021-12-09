@@ -29,5 +29,3 @@ If you want to make edits to any topic or update any topic, please click on the 
 And yes, if you update anything in a topic, don't forget to add your GitHub username in the contributors' list!
 
 Have a happy learning! ✌️
-
-\
