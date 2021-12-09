@@ -8,11 +8,11 @@ We accomplish this by curating info about various topics with a quick summary, w
 
 ### Topics Covered
 
-![https://groundzero.superteam.fun/introduction](.gitbook/assets/Intro\_Ground\_Zero.png)
+[![https://groundzero.superteam.fun/introduction](.gitbook/assets/Intro\_Ground\_Zero.png)](https://groundzero.superteam.fun/introduction)
 
-![https://groundzero.superteam.fun/dao](.gitbook/assets/Ground\_Zero\_Option\_2\_1.png)
+[![https://groundzero.superteam.fun/dao](.gitbook/assets/Ground\_Zero\_Option\_2\_1.png)](https://groundzero.superteam.fun/dao)
 
-![https://groundzero.superteam.fun/nft](.gitbook/assets/NFT\_Ground\_Zero.png)
+[![https://groundzero.superteam.fun/nft](.gitbook/assets/NFT\_Ground\_Zero.png)](https://groundzero.superteam.fun/nft)
 
 ### Core Contributors
 
