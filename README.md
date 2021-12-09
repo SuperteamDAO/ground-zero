@@ -10,7 +10,7 @@ This document is a team effort & would not have been possible without these team
 
 ### About Superteam DAO
 
-![](<.gitbook/assets/61a87356101a9ef9bcf3d3a5\_superteam (1).png>)
+![](.gitbook/assets/superteam.png)
 
 Superteam DAO helps the most promising projects in the **Solana** ecosystem in the ascending world (India, South East Asia, Eastern Europe, and Africa) launch and grow. We are organized as a co-operative of creatives, operators, and investors who are experienced in launching and growing technology businesses.
 
