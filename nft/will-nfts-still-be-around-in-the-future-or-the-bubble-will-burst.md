@@ -4,7 +4,7 @@
 Contributors: [@rajkaria](https://github.com/rajkaria), [@paarug](https://github.com/paarug)
 {% endhint %}
 
-*NFTs are here to stay.*
+**NFTs are here to stay.**
 
 While we did say that a lot of projects are most likely going to go to zero, the idea of Non-Fungible Tokens will be a part of our society as long as there is the internet.
 

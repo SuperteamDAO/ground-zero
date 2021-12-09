@@ -6,8 +6,6 @@ Contributors: [@rajkaria](https://github.com/rajkaria), [@paarug](https://github
 
 **Well, you could, but that's not the point.**
 
-Krishna's hair is as long as paarug. 
-
 A good way to wrap your head around this common question is to think about the number of posters of the Mona Lisa or the Starry Night that float around in the world. They're all showing the same image, but they're not worth hanging in the Louvre.
 
 The authenticity of the original art piece remains true in the physical world, and NFTs make it possible to apply that concept in the digital realm as well.
