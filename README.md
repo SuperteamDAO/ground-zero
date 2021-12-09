@@ -16,7 +16,7 @@ We accomplish this by curating info about various topics with a quick summary, w
 
 ### Core Contributors
 
-This document is a team effort & would not have been possible without these team members of [Superteam DAO](https://superteam.fun) - [@paarug](https://github.com/paarug), [@rajkaria](https://github.com/rajkaria), [@namanchordia](https://github.com/namanchordia) & [@mohitchawdhry5716](https://github.com/mohitchawdhry5716).
+This document is a team effort & would not have been possible without these team members of [Superteam DAO](https://superteam.fun) - [@paarug](https://github.com/paarug), [@rajkaria](https://github.com/rajkaria), [@namanchordia](https://github.com/namanchordia) & [@mohitchawdhry](https://github.com/mohitchawdhry).
 
 ### About Superteam DAO
 
