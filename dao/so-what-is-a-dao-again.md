@@ -1,7 +1,7 @@
 # 🤔 So what is a DAO again?
 
 {% hint style="success" %}
-Contributors: [@rajkaria](https://github.com/rajkaria), [@paarug](https://github.com/paarug), [@namanchordia](https://github.com/namanchordia)
+Contributors: [@paarugsethi](https://twitter.com/paarugsethi), [@namanchordia](https://twitter.com/namanchordia19)
 {% endhint %}
 
 A DAO is often described as sort of a “Reddit community with a bank account.”
