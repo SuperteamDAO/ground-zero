@@ -1,7 +1,7 @@
 # 📉 What if I get rekt?
 
 {% hint style="success" %}
-Contributors: [@rajkaria](https://github.com/rajkaria), [@paarug](https://github.com/paarug)
+Contributors: [@paarugsethi](https://twitter.com/paarugsethi)
 {% endhint %}
 
 As bullish we are on NFTs as a concept, the reality of the matter is that most of the projects out there are going to fail in the future.

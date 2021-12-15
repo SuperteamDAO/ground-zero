@@ -1,7 +1,7 @@
 # ❓ How is it useful ?
 
 {% hint style="success" %}
-Contributors: [@paarug](https://github.com/paarugsethi)
+Contributors: [@paarugsethi](https://twitter.com/paarugsethi)
 {% endhint %}
 
 Imagine if a company like Spotify was owned and operated by a group of artists, producers, listeners - and the more time and creativity you put into the platform the larger your ownership of it. This kind of large scale coordination is now possible in ways it wasn’t before.

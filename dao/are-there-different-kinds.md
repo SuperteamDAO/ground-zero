@@ -1,7 +1,7 @@
 # 👀 Are there different kinds?
 
 {% hint style="success" %}
-Contributors: [@rajkaria](https://github.com/rajkaria), [@paarug](https://github.com/paarug)
+Contributors: [@paarugsethi](https://twitter.com/paarugsethi)
 {% endhint %}
 
 DAOs have grown exponentially in number as well as types in the past couple of years and continue to do so.

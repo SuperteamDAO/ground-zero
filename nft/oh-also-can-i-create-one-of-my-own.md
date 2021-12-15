@@ -1,7 +1,7 @@
 # 🎨 Oh also, can I create one of my own?
 
 {% hint style="success" %}
-Contributors: [@rajkaria](https://github.com/rajkaria), [@paarug](https://github.com/paarug)
+Contributors: [@rajkaria](https://twitter.com/rajkaria_), [@paarugsethi](https://twitter.com/paarugsethi)
 {% endhint %}
 
 **Yes, you can!**

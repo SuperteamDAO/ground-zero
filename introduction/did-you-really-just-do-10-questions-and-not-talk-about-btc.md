@@ -1,7 +1,7 @@
 # 💰 Did you really just do 10 questions and not talk about BTC?
 
 {% hint style="success" %}
-Contributors: [@rajkaria](https://github.com/rajkaria)
+Contributors: [@aditya](https://twitter.com/aditay7s)
 {% endhint %}
 
 Think of Bitcoin as an open monetary network and the blockchain as a public decentralized ledger that is maintained by millions across the globe. This ensures that no single person, government, or authority can shut Bitcoin down.
