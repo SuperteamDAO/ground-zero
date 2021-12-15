@@ -1,7 +1,7 @@
 # ⛓ What is a blockchain?
 
 {% hint style="success" %}
-Contributors: [@rajkaria](https://github.com/rajkaria), [@paarug](https://github.com/paarug)
+Contributors: [@abbas](https://twitter.com/Abbasshaikh42), [@mohitchawdhry](https://twitter.com/chawdhrymohit)
 {% endhint %}
 
 An interesting analogy for understanding blockchain is a Google Doc.
