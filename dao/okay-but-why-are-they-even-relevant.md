@@ -1,7 +1,7 @@
 # ⁉ Okay but, why are they even relevant?
 
 {% hint style="success" %}
-Contributors: [@rajkaria](https://github.com/rajkaria), [@paarug](https://github.com/paarug)
+Contributors: [@paarugsethi](https://twitter.com/paarugsethi)
 {% endhint %}
 
 *DAOs pose to change the way organisations, as well as individuals, work in the future.*

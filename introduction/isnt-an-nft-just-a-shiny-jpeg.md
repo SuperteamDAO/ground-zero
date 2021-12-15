@@ -1,7 +1,7 @@
 # 🎨 Isn’t an NFT just a shiny jpeg?
 
 {% hint style="success" %}
-Contributors: [@rajkaria](https://github.com/rajkaria), [@paarug](https://github.com/paarug)
+Contributors: [@paarugsethi](https://twitter.com/paarugsethi)
 {% endhint %}
 
 **And then, there were NFTs.**

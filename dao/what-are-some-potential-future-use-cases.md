@@ -1,7 +1,7 @@
 # 🌏 What are some potential future use cases?
 
 {% hint style="success" %}
-Contributors: [@rajkaria](https://github.com/rajkaria), [@paarug](https://github.com/paarug)
+Contributors: [@paarugsethi](https://twitter.com/paarugsethi)
 {% endhint %}
 
 Like with everything in web3, the potential use cases in the future are abundant. DAOs have a ton of use cases and we're only at the start of the space.

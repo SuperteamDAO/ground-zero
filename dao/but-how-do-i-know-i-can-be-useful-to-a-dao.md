@@ -1,7 +1,7 @@
 # 🙋♀ But how do I know I can be useful to a DAO?
 
 {% hint style="success" %}
-Contributors: [@rajkaria](https://github.com/rajkaria), [@paarug](https://github.com/paarug)
+Contributors: [@paarugsethi](https://twitter.com/paarugsethi)
 {% endhint %}
 
 So you've joined a DAO but now you have no idea how to get involved.

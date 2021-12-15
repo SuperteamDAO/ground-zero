@@ -1,7 +1,7 @@
 # ⌛ How did they even come about?
 
 {% hint style="success" %}
-Contributors: [@rajkaria](https://github.com/rajkaria), [@paarug](https://github.com/paarug)
+Contributors: [@paarugsethi](https://twitter.com/paarugsethi)
 {% endhint %}
 
 Vitalik Buterin was the first to mention Decentralised Autonomous Organisations in the introductory paragraph of the Ethereum Whitepaper. He also wrote a blog on these corporations back in 2013.
