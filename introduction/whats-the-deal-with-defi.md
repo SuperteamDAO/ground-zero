@@ -1,7 +1,7 @@
 # 📉 What's the deal with DeFi?
 
 {% hint style="success" %}
-Contributors: [@rajkaria](https://github.com/rajkaria)
+Contributors: [@paarugsethi](https://twitter.com/paarugsethi)
 {% endhint %}
 
 Imagine if just like social media allows you to connect with anyone in the world, you could also bank with anyone in the world, i.e. borrow, lend, invest etc. This novel idea is a reality now but it comes with challenges specifically on risk management.

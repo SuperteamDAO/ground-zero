@@ -1,7 +1,7 @@
 # 📺 Why are creators so bullish on them?
 
 {% hint style="success" %}
-Contributors: [@rajkaria](https://github.com/rajkaria), [@paarug](https://github.com/paarug)
+Contributors: [@paarugsethi](https://twitter.com/paarugsethi)
 {% endhint %}
 
 >"NFTs are blockchain-based records that uniquely represent pieces of media. The media can be anything digital, including art, videos, music, gifs, games, text, memes, and code. NFTs contain highly trustworthy documentation of their history and origin, and can have code attached to do almost anything programmers dream up (one popular feature is code that ensures that the original creator receives royalties from secondary sales)." - Chris Dixon

@@ -1,7 +1,7 @@
 # 🎮 How are NFTs and gaming related?
 
 {% hint style="success" %}
-Contributors: [@rajkaria](https://github.com/rajkaria), [@paarug](https://github.com/paarug)
+Contributors: [@paarugsethi](https://twitter.com/paarugsethi)
 {% endhint %}
 
 The Gaming industry has probably gained the most out of the NFT Boom that we've witnessed over the last couple of years.
