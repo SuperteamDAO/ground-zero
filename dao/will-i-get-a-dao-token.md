@@ -1,7 +1,7 @@
 # 💰 Will I get a DAO token?
 
 {% hint style="success" %}
-Contributors: [@rajkaria](https://github.com/rajkaria), [@paarug](https://github.com/paarug)
+Contributors: [@paarugsethi](https://twitter.com/paarugsethi), [@namanchordia](https://twitter.com/namanchordia19)
 {% endhint %}
 
 **Well, it depends.**
