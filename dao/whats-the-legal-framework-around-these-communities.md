@@ -1,7 +1,7 @@
 # ⚖ What's the legal framework around these communities?
 
 {% hint style="success" %}
-Contributors: [@rajkaria](https://github.com/rajkaria), [@paarug](https://github.com/paarug)
+Contributors: [@paarugsethi](https://twitter.com/paarugsethi), [@namanchordia](https://twitter.com/namanchordia19)
 {% endhint %}
 
 Legal frameworks around DAOs are still in their infancy stage and the laws that apply differ from one place to another.
