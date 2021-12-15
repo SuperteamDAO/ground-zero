@@ -1,7 +1,7 @@
 # 🌆 What is the Metaverse?
 
 {% hint style="success" %}
-Contributors: [@rajkaria](https://github.com/rajkaria), [@paarug](https://github.com/paarug)
+Contributors: [@paarugsethi](https://twitter.com/paarugsethi)
 {% endhint %}
 
 Addressing the elephant in the room here.
