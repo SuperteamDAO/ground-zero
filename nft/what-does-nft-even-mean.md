@@ -1,7 +1,7 @@
 # ⁉ What does NFT even mean?
 
 {% hint style="success" %}
-Contributors: [@rajkaria](https://github.com/rajkaria), [@paarug](https://github.com/paarug)
+Contributors: [@paarugsethi](https://twitter.com/paarugsethi)
 {% endhint %}
 
 Before jumping into NFTs or Non-Fungible tokens, let us understand what fungibility is.
