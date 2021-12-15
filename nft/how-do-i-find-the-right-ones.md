@@ -1,7 +1,7 @@
 # 🔭 How do I find the right ones?
 
 {% hint style="success" %}
-Contributors: [@rajkaria](https://github.com/rajkaria), [@paarug](https://github.com/paarug)
+Contributors: [@paarugsethi](https://twitter.com/paarugsethi)
 {% endhint %}
 
 Finding the right NFTs can mean different things for different people. There are a bunch of marketplaces like [Opensea](https://opensea.io/) and [Rarible](https://rarible.com/) on Ethereum and [Solsea](https://solsea.io/) and [Solanart](https://solanart.io/) on Solana for you to discover and buy different projects.
