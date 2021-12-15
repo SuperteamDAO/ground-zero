@@ -1,7 +1,7 @@
 # 🎈 Will NFTs still be around in the future or the bubble will burst?
 
 {% hint style="success" %}
-Contributors: [@rajkaria](https://github.com/rajkaria), [@paarug](https://github.com/paarug)
+Contributors: [@paarugsethi](https://twitter.com/paarugsethi)
 {% endhint %}
 
 **NFTs are here to stay.**
