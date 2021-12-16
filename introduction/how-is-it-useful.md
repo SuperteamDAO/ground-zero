@@ -4,17 +4,19 @@
 Contributors: [@paarugsethi](https://twitter.com/paarugsethi)
 {% endhint %}
 
-Imagine if a company like Spotify was owned and operated by a group of artists, producers, listeners - and the more time and creativity you put into the platform the larger your ownership of it. This kind of large scale coordination is now possible in ways it wasn’t before.
+Wouldn't it be cool if a company like Spotify was owned and operated by a group of artists, producers, and listeners? The more time and creativity one puts into the platform, the larger one’s ownership becomes. This kind of large-scale coordination is now possible in ways it wasn’t before.
 
-Products can now write their data to public blockchains instead of servers owned by any single entity. This means all information is public and no one can be “de-platformed” If a team behind a product goes rogue or makes decisions against the will of their creators or users, the community can simply start a new product, take their data/followers/art and leave.
+Products can now store their data on public blockchains rather than on servers owned by any single entity. This means all information is public and no one can be “de-platformed”. If a team behind a product goes rogue or decides against the will of their creators or users, the community is not powerless. They can start a new product. Creators can take their data/followers/assets and leave.
 
-This means all the products as we know them today can be re-created and improved on web3 - the way loans are given, the way music is created, the social networks we use or the way those companies are run. Everything can be can be done better.
+This means all the products as we know them today can be re-created from first principles and improved on web3. Think banking, loan distribution, music creation, social networks, property agreements, and much more. Almost everything that feels too centralized, we can do better.
 
 ## Here's a video to get you going
 
+{% embed url="https://www.youtube.com/watch?v=RplnSVTzvnU&feature=emb_title" %}
+
 {% embed url="https://www.youtube.com/watch?v=Yo-BrASMHU4&feature=emb_title" %}
 
-## Bonus Podcast
+## Here's a podcast to hear from the experts
 
 {% embed url="https://www.youtube.com/watch?v=DlNDYMNJ5zQ&feature=emb_title" %}
 
