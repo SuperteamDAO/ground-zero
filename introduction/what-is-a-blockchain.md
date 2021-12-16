@@ -12,15 +12,13 @@ Think of blockchain as an open-source digital book of accounts that works simila
 
 Digital assets, most commonly Cryptocurrencies in Web3, are distributed instead of copied or transferred, creating an immutable record of an asset. The asset is decentralized via nodes (connected devices), allowing full real-time access and transparency to the public.
 
-Formally, a blockchain is defined as a _public, permanent, append-only, distributed ledger_.
+## Here's a video to get you going
+
+{% embed url="https://www.youtube.com/watch?feature=emb_title&v=hYip_Vuv8J0" %}
 
 ## Here's an article for a complete deep dive dive
 
 {% embed url="https://medium.com/mit-technology-review/what-is-a-blockchain-9faa44b32693" %}
-
-## Here's a video to get you going
-
-{% embed url="https://www.youtube.com/watch?feature=emb_title&v=hYip_Vuv8J0" %}
 
 ## You can't go long without Crypto Twitter
 
