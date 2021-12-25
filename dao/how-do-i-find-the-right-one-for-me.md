@@ -14,11 +14,11 @@ Or, check out the [Superteam DAO](https://superteam.fun/) while you're at it.
 
 ## Here's a video to get you going
 
-https://www.youtube.com/watch?v=-2E8RUMTjQs&feature=emb_title
+{% embed url="https://www.youtube.com/watch?v=-2E8RUMTjQs&feature=emb_title" %}
 
 ## Here's an article for a complete deep dive
 
-https://coopahtroopa.mirror.xyz/_EDyn4cs9tDoOxNGZLfKL7JjLo5rGkkEfRa_a-6VEWw
+{% embed url="https://coopahtroopa.mirror.xyz/_EDyn4cs9tDoOxNGZLfKL7JjLo5rGkkEfRa_a-6VEWw" %}
 
 ## You can't go long without Crypto Twitter
 
