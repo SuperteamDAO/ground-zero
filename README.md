@@ -1,41 +1,65 @@
-# About Ground Zero
+# A statically generated blog example using Next.js and Markdown
 
+This example showcases Next.js's [Static Generation](https://nextjs.org/docs/basic-features/pages) feature using Markdown files as the data source.
 
+The blog posts are stored in `/_posts` as Markdown files with front matter support. Adding a new Markdown file in there will create a new blog post.
 
-Ground Zero is a project by members of [Superteam DAO](https://superteam.fun) to help people learn about the basics of the crypto ecosystem for free.
+To create the blog posts we use [`remark`](https://github.com/remarkjs/remark) and [`remark-html`](https://github.com/remarkjs/remark-html) to convert the Markdown files into an HTML string, and then send it down as a prop to the page. The metadata of every post is handled by [`gray-matter`](https://github.com/jonschlinkert/gray-matter) and also sent in props to the page.
 
-We accomplish this by curating info about various topics with a quick summary, which includes videos, articles & tweets to help you understand the basics of the topic- all freely available to the public.
+## Preview
 
-### Topics Covered
+Preview the example live on [StackBlitz](http://stackblitz.com/):
 
-[![https://groundzero.superteam.fun/introduction](.gitbook/assets/Intro\_Ground\_Zero.png)](https://groundzero.superteam.fun/introduction)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/blog-starter)
 
-[![https://groundzero.superteam.fun/dao](.gitbook/assets/Ground\_Zero\_Option\_2\_1.png)](https://groundzero.superteam.fun/dao)
+## Demo
 
-[![https://groundzero.superteam.fun/nft](.gitbook/assets/NFT\_Ground\_Zero.png)](https://groundzero.superteam.fun/nft)
+[https://next-blog-starter.vercel.app/](https://next-blog-starter.vercel.app/)
 
-### Core Contributors
+## Deploy your own
 
-This document is a team effort & would not have been possible without these team members of [Superteam DAO](https://superteam.fun) - [@paarugsethi](https://twitter.com/paarugsethi), [@aditya](https://twitter.com/aditay7s), [@rajkaria](https://twitter.com/rajkaria_), [@namanchordia](https://twitter.com/namanchordia19) & [@mohitchawdhry](https://twitter.com/chawdhrymohit).
+Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
 
-### About Superteam DAO
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/blog-starter&project-name=blog-starter&repository-name=blog-starter)
 
-![](.gitbook/assets/superteam.png)
+### Related examples
 
-Superteam DAO helps the most promising projects in the **Solana** ecosystem in the ascending world (India, South East Asia, Eastern Europe, and Africa) launch and grow. We are organized as a co-operative of creatives, operators, and investors who are experienced in launching and growing technology businesses.
+- [WordPress](/examples/cms-wordpress)
+- [DatoCMS](/examples/cms-datocms)
+- [Sanity](/examples/cms-sanity)
+- [TakeShape](/examples/cms-takeshape)
+- [Prismic](/examples/cms-prismic)
+- [Contentful](/examples/cms-contentful)
+- [Strapi](/examples/cms-strapi)
+- [Agility CMS](/examples/cms-agilitycms)
+- [Cosmic](/examples/cms-cosmic)
+- [ButterCMS](/examples/cms-buttercms)
+- [Storyblok](/examples/cms-storyblok)
+- [GraphCMS](/examples/cms-graphcms)
+- [Kontent](/examples/cms-kontent)
+- [Umbraco Heartcore](/examples/cms-umbraco-heartcore)
+- [Builder.io](/examples/cms-builder-io)
 
-We value the sovereignty that comes with founding a company, the skin in the game that comes with investing, and the joy that comes with getting sh\*t done. In a pre-crypto world, we had to fit into broiler categories — founder, investor, or employee. Crypto allows us to be free-range and be all 3 at the same time.
+## How to use
 
-If you want to know more about Superteam DAO or to become a member of the DAO, please check out our website - [https://superteam.fun/](https://superteam.fun).
+Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
 
-You can also reach out to us on Twitter [@superteamDAO](https://twitter.com/SuperteamDAO).
+```
+npx create-next-app --example blog-starter blog-starter-app
 
-### FAQs
+```
 
-If you have any doubts related to any topic in this document or you have a suggestion, feel free to create an issue [here](https://github.com/SuperteamDAO/ground-zero/issues) here.
+or
 
-If you want to make edits to any topic or update any topic, please click on the "Edit on Github" link you see on the right section of that topic, make the changes and create a pull request to the master branch. One of the moderators will look at your changes & merge your changes if all looks good.
+```
+yarn create next-app --example blog-starter blog-starter-app
 
-And yes, if you update anything in a topic, don't forget to add your GitHub username in the contributors' list!
+```
 
-Have a happy learning! ✌️
+Your blog should be up and running on [http://localhost:3000](http://localhost:3000)! If it doesn't work, post on [GitHub discussions](https://github.com/vercel/next.js/discussions).
+
+Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+
+# Notes
+
+This blog-starter uses [Tailwind CSS](https://tailwindcss.com) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3).

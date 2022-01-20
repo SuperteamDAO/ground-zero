@@ -1,0 +1,27 @@
+.markdown {
+  @apply text-lg leading-relaxed text-gray-200;
+}
+
+.markdown h1 {
+  @apply text-6xl font-heading font-extrabold mb-8 text-accent;
+}
+
+.markdown h2 {
+  @apply text-3xl font-heading font-medium mb-6 text-accent;
+}
+
+.markdown h3 {
+  @apply text-2xl font-heading font-medium mb-4 text-accent;
+}
+
+.markdown strong {
+  @apply text-white;
+}
+
+
+.markdown p,
+.markdown ul,
+.markdown ol,
+.markdown blockquote {
+  @apply my-6;
+}
