@@ -1,6 +1,6 @@
 module.exports = {
   content: ['./components/**/*.js', './pages/**/*.js'],
-  safelist: ['mb-10', 'mb-14', 'text-white', 'bg-gray-900', 'px-6', 'py-3', 'rounded-md', 'font-bold', 'mb-1', 'mt-0', 'm-0', 'text-sm'],
+  safelist: ['drop-shadow-xl', 'mb-10', 'mb-14', 'transition-transform', 'hover:-translate-y-0.5', 'text-white', 'bg-gray-800', 'hover:bg-gray-800', 'bg-gray-900', 'px-6', 'py-3', 'rounded-md', 'font-bold', 'mb-1', 'mt-0', 'm-0', '!mb-1', '!mt-0', '!m-0', 'text-sm'],
   theme: {
     extend: {
       fontFamily: {
