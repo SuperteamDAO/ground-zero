@@ -1,8 +1,11 @@
-# 💎 My crypto friends keep telling me to buy ETH, does it do all this?
-
-{% hint style="success" %}
-Contributors: [@paarugsethi](https://twitter.com/paarugsethi), [@mohitchawdhry](https://twitter.com/chawdhrymohit)
-{% endhint %}
+---
+title: '💎 My crypto friends keep telling me to buy ETH, does it do all this?'
+authors:
+  - name: '@paarugsethi'
+    url: 'https://twitter.com/paarugsethi'
+  - name: '@mohitchawdhry'
+    url: 'https://twitter.com/chawdhrymohit'
+---
 
 So we've already discussed how a blockchain is an open-source ledger that stores data in an encrypted and decentralized manner. We've also gone over some of the use cases of a blockchain, including smart contracts.
 

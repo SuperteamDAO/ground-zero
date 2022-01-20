@@ -1,0 +1,252 @@
+
+[
+  {
+    "order": 1,
+    "logo": "🎓",
+    "name": "About Ground Zero",
+    "path": "about/ground-zero.md",
+    "url": "",
+    "pages": [],
+    "hide": true
+  },
+  {
+    "order": 2,
+    "logo": "💡",
+    "name": "Introduction",
+    "path": "introduction/README.md",
+    "url": "introduction",
+    "pages": [
+      {
+        "order": 1,
+        "logo": "⛓",
+        "name": "What is a blockchain?",
+        "path": "introduction/what-is-a-blockchain.md"
+      },
+      {
+        "order": 2,
+        "logo": "❓",
+        "name": "How is it useful ?",
+        "path": "introduction/how-is-it-useful.md"
+      },
+      {
+        "order": 3,
+        "logo": "🏗",
+        "name": "Okay, so what are people building with this?",
+        "path": "introduction/okay-so-what-are-people-building-with-this.md"
+      },
+      {
+        "order": 4,
+        "logo": "🎨",
+        "name": "Isn’t an NFT just a shiny jpeg?",
+        "path": "introduction/isnt-an-nft-just-a-shiny-jpeg.md"
+      },
+      {
+        "order": 5,
+        "logo": "📉",
+        "name": "What's the deal with DeFi?",
+        "path": "introduction/whats-the-deal-with-defi.md"
+      },
+      {
+        "order": 6,
+        "logo": "🤔",
+        "name": "This is all okay, but what on earth is a DAO?",
+        "path": "introduction/this-is-all-okay-but-what-on-earth-is-a-dao.md"
+      },
+      {
+        "order": 7,
+        "logo": "💎",
+        "name": "My crypto friends keep telling me to buy ETH, does it do all this?",
+        "path": "introduction/my-crypto-friends-keep-telling-me-to-buy-eth-does-it-do-all-this.md"
+      },
+      {
+        "order": 8,
+        "logo": "⚡",
+        "name": "Ok, What is Solana?",
+        "path": "introduction/ok-what-is-solana.md"
+      },
+      {
+        "order": 9,
+        "logo": "🤷",
+        "name": " Great but I can't code, so can I only participate by buying tokens?",
+        "path": "introduction/great-but-i-cant-code-so-can-i-only-participate-by-buying-tokens.md"
+      },
+      {
+        "order": 10,
+        "logo": "💰",
+        "name": "Did you really just do 10 questions and not talk about BTC?",
+        "path": "introduction/did-you-really-just-do-10-questions-and-not-talk-about-btc.md"
+      }
+    ]
+  },
+  {
+    "order": 3,
+    "logo": "📖",
+    "name": "DAO",
+    "path": "dao/README.md",
+    "url": "dao",
+    "pages": [
+      {
+        "order": 1,
+        "logo": "🤔",
+        "name": "So what is a DAO again?",
+        "path": "dao/so-what-is-a-dao-again.md"
+      },
+      {
+        "order": 2,
+        "logo": "⌛",
+        "name": "How did they even come about?",
+        "path": "dao/how-did-they-even-come-about.md"
+      },
+      {
+        "order": 3,
+        "logo": "⁉",
+        "name": "Okay but, why are they even relevant?",
+        "path": "dao/okay-but-why-are-they-even-relevant.md"
+      },
+      {
+        "order": 4,
+        "logo": "👀",
+        "name": "Are there different kinds?",
+        "path": "dao/are-there-different-kinds.md"
+      },
+      {
+        "order": 5,
+        "logo": "🌏",
+        "name": "What are some potential future use cases?",
+        "path": "dao/what-are-some-potential-future-use-cases.md"
+      },
+      {
+        "order": 6,
+        "logo": "🔭",
+        "name": "How do I find the right one for me?",
+        "path": "dao/how-do-i-find-the-right-one-for-me.md"
+      },
+      {
+        "order": 7,
+        "logo": "🙋",
+        "name": " But how do I know I can be useful to a DAO?",
+        "path": "dao/but-how-do-i-know-i-can-be-useful-to-a-dao.md"
+      },
+      {
+        "order": 8,
+        "logo": "⚖",
+        "name": "What's the legal framework around these communities?",
+        "path": "dao/whats-the-legal-framework-around-these-communities.md"
+      },
+      {
+        "order": 9,
+        "logo": "💰",
+        "name": "Will I get a DAO token?",
+        "path": "dao/will-i-get-a-dao-token.md"
+      },
+      {
+        "order": 10,
+        "logo": "🏗",
+        "name": "How do I go about making one of my own?",
+        "path": "dao/how-do-i-go-about-making-one-of-my-own.md"
+      }
+    ]
+  },
+  {
+    "order": 4,
+    "logo": "🖼",
+    "name": "NFT",
+    "path": "nft/README.md",
+    "url": "nft",
+    "pages": [
+      {
+        "order": 1,
+        "logo": "⁉",
+        "name": "What does NFT even mean?",
+        "path": "nft/what-does-nft-even-mean.md"
+      },
+      {
+        "order": 2,
+        "logo": "🤷",
+        "name": " Okay but can’t I just right-click save anything I want?",
+        "path": "nft/okay-but-cant-i-just-right-click-save-anything-i-want.md"
+      },
+      {
+        "order": 3,
+        "logo": "📺",
+        "name": "Why are creators so bullish on them?",
+        "path": "nft/why-are-creators-so-bullish-on-them.md"
+      },
+      {
+        "order": 4,
+        "logo": "🏗",
+        "name": "Do NFTs serve any other purpose as well?",
+        "path": "nft/do-nfts-serve-any-other-purpose-as-well.md"
+      },
+      {
+        "order": 5,
+        "logo": "🔭",
+        "name": "How do I find the right ones?",
+        "path": "nft/how-do-i-find-the-right-ones.md"
+      },
+      {
+        "order": 6,
+        "logo": "📉",
+        "name": "What if I get rekt?",
+        "path": "nft/what-if-i-get-rekt.md"
+      },
+      {
+        "order": 7,
+        "logo": "🖼",
+        "name": "Can I get NFTs on Solana as well?",
+        "path": "nft/can-i-get-nfts-on-solana-as-well.md"
+      },
+      {
+        "order": 8,
+        "logo": "🎈",
+        "name": "Will NFTs still be around in the future or the bubble will burst?",
+        "path": "nft/will-nfts-still-be-around-in-the-future-or-the-bubble-will-burst.md"
+      },
+      {
+        "order": 9,
+        "logo": "🎮",
+        "name": "How are NFTs and gaming related?",
+        "path": "nft/how-are-nfts-and-gaming-related.md"
+      },
+      {
+        "order": 10,
+        "logo": "🌆",
+        "name": "What is the Metaverse?",
+        "path": "nft/what-is-the-metaverse.md"
+      },
+      {
+        "order": 11,
+        "logo": "🎨",
+        "name": "Oh also, can I create one of my own?",
+        "path": "nft/oh-also-can-i-create-one-of-my-own.md"
+      }
+    ]
+  },
+  {
+    "order": 5,
+    "logo": "💻",
+    "name": "Coding",
+    "path": "coding/README.md",
+    "url": "coding",
+    "pages": [
+      {
+        "order": 2,
+        "logo": "🔌",
+        "name": "Connecting to the wallet through JS and identifying the wallet's owner",
+        "path": "coding/connecting-to-the-wallet-through-js-and-identifying-the-wallets-owner.md"
+      },
+      {
+        "order": 3,
+        "logo": "💸",
+        "name": "Sending SOLs through browser JavaScript",
+        "path": "coding/sending-sols-through-browser-javascript.md"
+      },
+      {
+        "order": 4,
+        "logo": "↔",
+        "name": "Integrating authentication, the web3 style",
+        "path": "coding/integrating-authentication-the-web3-style.md"
+      }
+    ]
+  }
+]
