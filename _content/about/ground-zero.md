@@ -34,7 +34,7 @@ You can also reach out to us on Twitter [@superteamDAO](https://twitter.com/Supe
 
 If you have any doubts related to any topic in this document or you have a suggestion, feel free to create an issue [here](https://github.com/SuperteamDAO/ground-zero/issues) here.
 
-If you want to make edits to any topic or update any topic, please click on the "Edit on Github" link you see on the right section of that topic, make the changes and create a pull request to the master branch. One of the moderators will look at your changes & merge your changes if all looks good.
+If you want to make edits to any topic or update any topic, please click on the "Edit on Github" link you see on the top below the title, make the changes and create a pull request to the master branch. One of the moderators will look at your changes & merge your changes if all looks good.
 
 And yes, if you update anything in a topic, don't forget to add your GitHub username in the contributors' list!
 
