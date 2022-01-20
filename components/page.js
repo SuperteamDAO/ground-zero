@@ -14,13 +14,13 @@ export default function Page({ data, page }) {
           <p className="text-gray-400 text-sm font-button">By {
             data?.authors?.map((author, index) => (
               <Fragment key={index}>
-                <a href={author.url} target="_blank" className="text-gray-400 hover:text-secondary hover:underline">{author?.name}</a>
+                <a href={author.url} target="_blank" rel="noreferrer" className="text-gray-400 hover:text-secondary hover:underline">{author?.name}</a>
                 {index < data?.authors.length - 2 ? ", " : index === data?.authors.length - 2 ? " & " : ""}
               </Fragment>
             ))
           }</p>
           <p className="text-gray-200 mx-1">·</p>
-          <a className="text-gray-400 text-sm hover:text-secondary hover:underline" href={`${GITHUB_URL}${asPath}`} target="_blank">Edit on Github</a>
+          <a className="text-gray-400 text-sm hover:text-secondary hover:underline" href={`${GITHUB_URL}${asPath}.md`} target="_blank" rel="noreferrer">Edit on Github</a>
         </div>
       </div>
       <div

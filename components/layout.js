@@ -2,16 +2,16 @@ import { Fragment } from 'react';
 import { Popover, Transition } from '@headlessui/react';
 import {
   ChartBarIcon,
-  CheckCircleIcon,
+  // CheckCircleIcon,
   CursorClickIcon,
   MenuIcon,
-  PhoneIcon,
-  PlayIcon,
+  // PhoneIcon,
+  // PlayIcon,
   ShieldCheckIcon,
   ViewGridIcon,
   XIcon,
 } from '@heroicons/react/outline';
-import { ChevronDownIcon } from '@heroicons/react/solid';
+// import { ChevronDownIcon } from '@heroicons/react/solid';
 import Sidebar from "/components/sidebar/sidebar";
 
 const solutions = [
@@ -36,15 +36,15 @@ const solutions = [
   },
 ];
 
-const callsToAction = [
-  { name: 'Watch Demo', href: '#', icon: PlayIcon },
-  { name: 'View All Products', href: '#', icon: CheckCircleIcon },
-  { name: 'Contact Sales', href: '#', icon: PhoneIcon },
-];
+// const callsToAction = [
+//   { name: 'Watch Demo', href: '#', icon: PlayIcon },
+//   { name: 'View All Products', href: '#', icon: CheckCircleIcon },
+//   { name: 'Contact Sales', href: '#', icon: PhoneIcon },
+// ];
 
-function classNames(...classes) {
-  return classes.filter(Boolean).join(' ')
-}
+// function classNames(...classes) {
+//   return classes.filter(Boolean).join(' ')
+// }
 
 export default function Layout({contentList, children}) {
   return (
@@ -61,7 +61,7 @@ export default function Layout({contentList, children}) {
                 </a>
               </div>
               <div className="hidden md:flex-1 md:flex md:items-center md:justify-end">
-                <Popover>
+                {/* <Popover>
                   {({ open }) => (
                     <>
                       <Popover.Button
@@ -135,7 +135,7 @@ export default function Layout({contentList, children}) {
                       </Transition>
                     </>
                   )}
-                </Popover>
+                </Popover> */}
                 <div className="flex items-center ml-8">
                   <a href="https://github.com/superteamdao/ground-zero" target="_blank" className="text-base font-medium text-secondary hover:text-accent font-heading" rel="noreferrer">
                     Contribute to Docs
