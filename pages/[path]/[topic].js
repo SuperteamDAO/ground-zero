@@ -7,7 +7,7 @@ export default function TopicPage({ contentList, page, data }) {
   return (
     <>
       <Layout contentList={contentList}>
-        <div className="container mx-auto px-5 py-14 min-h-100">
+        <div className="container mx-auto px-5 py-10 min-h-100">
           <Page data={data} page={page} />
         </div>
       </Layout>

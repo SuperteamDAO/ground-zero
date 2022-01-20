@@ -47,7 +47,7 @@ export default function Sidebar({ contentList }) {
                   >
                     <Disclosure.Panel className="pl-6 border-l border-accent mb-6">
                       {page?.pages?.map(subPage => {
-                        const subPath = `/${subPage?.path?.replace(".md", ".html")}`;
+                        const subPath = `/${subPage?.path?.replace(".md", "")}`;
                         return (
                           <a
                             key={subPage?.name}
