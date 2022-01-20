@@ -1,5 +1,5 @@
 ---
-title: '🌏 What are some potential future use cases?'
+title: "🌏 What are some potential future use cases?"
 authors:
   - name: '@paarugsethi'
     url: 'https://twitter.com/paarugsethi'

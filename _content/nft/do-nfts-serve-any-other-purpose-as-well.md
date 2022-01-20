@@ -1,5 +1,5 @@
 ---
-title: '🏗 Do NFTs serve any other purpose as well?'
+title: "🏗 Do NFTs serve any other purpose as well?"
 authors:
   - name: '@paarugsethi'
     url: 'https://twitter.com/paarugsethi'

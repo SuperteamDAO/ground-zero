@@ -1,5 +1,5 @@
 ---
-title: '⚡ Ok, What is Solana?'
+title: "⚡ Ok, What is Solana?"
 authors:
   - name: '@paarugsethi'
     url: 'https://twitter.com/paarugsethi'

@@ -1,5 +1,5 @@
 ---
-title: '⁉ What does NFT even mean?'
+title: "⁉ What does NFT even mean?"
 authors:
   - name: '@paarugsethi'
     url: 'https://twitter.com/paarugsethi'

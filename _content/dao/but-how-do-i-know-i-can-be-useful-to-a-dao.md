@@ -1,5 +1,5 @@
 ---
-title: '🙋‍♀️ But how do I know I can be useful to a DAO?'
+title: "🙋‍♀️ But how do I know I can be useful to a DAO?"
 authors:
   - name: '@paarugsethi'
     url: 'https://twitter.com/paarugsethi'

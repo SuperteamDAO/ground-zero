@@ -1,5 +1,5 @@
 ---
-title: '🤔 So what is a DAO again?'
+title: "🤔 So what is a DAO again?"
 authors:
   - name: '@paarugsethi'
     url: 'https://twitter.com/paarugsethi'

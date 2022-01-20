@@ -1,5 +1,5 @@
 ---
-title: '💰 Did you really just do 10 questions and not talk about BTC?'
+title: "💰 Did you really just do 10 questions and not talk about BTC?"
 authors:
   - name: '@aditya'
     url: 'https://twitter.com/aditay7s'

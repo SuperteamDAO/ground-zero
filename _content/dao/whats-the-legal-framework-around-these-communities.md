@@ -1,5 +1,5 @@
 ---
-title: '⚖ What's the legal framework around these communities?'
+title: "⚖ What's the legal framework around these communities?"
 authors:
   - name: '@paarugsethi'
     url: 'https://twitter.com/paarugsethi'

@@ -1,5 +1,5 @@
 ---
-title: '💰 Will I get a DAO token?'
+title: "💰 Will I get a DAO token?"
 authors:
   - name: '@paarugsethi'
     url: 'https://twitter.com/paarugsethi'

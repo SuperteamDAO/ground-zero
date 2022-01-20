@@ -1,5 +1,5 @@
 ---
-title: '🔌 Connecting to the wallet through JS and identifying the wallet's owner'
+title: "🔌 Connecting to the wallet through JS and identifying the wallet's owner"
 authors:
   - name: '@rajkaria'
     url: 'https://github.com/rajkaria'

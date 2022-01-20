@@ -1,5 +1,5 @@
 ---
-title: '🌆 What is the Metaverse?'
+title: "🌆 What is the Metaverse?"
 authors:
   - name: '@paarugsethi'
     url: 'https://twitter.com/paarugsethi'

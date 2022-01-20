@@ -1,5 +1,5 @@
 ---
-title: '↔ Integrating authentication, the web3 style'
+title: "↔ Integrating authentication, the web3 style"
 authors:
   - name: '@rajkaria'
     url: 'https://github.com/rajkaria'

@@ -1,5 +1,5 @@
 ---
-title: '🔭 How do I find the right ones?'
+title: "🔭 How do I find the right ones?"
 authors:
   - name: '@paarugsethi'
     url: 'https://twitter.com/paarugsethi'

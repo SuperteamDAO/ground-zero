@@ -1,5 +1,5 @@
 ---
-title: '💎 My crypto friends keep telling me to buy ETH, does it do all this?'
+title: "💎 My crypto friends keep telling me to buy ETH, does it do all this?"
 authors:
   - name: '@paarugsethi'
     url: 'https://twitter.com/paarugsethi'

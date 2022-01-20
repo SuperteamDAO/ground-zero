@@ -1,5 +1,5 @@
 ---
-title: '📉 What if I get rekt?'
+title: "📉 What if I get rekt?"
 authors:
   - name: '@paarugsethi'
     url: 'https://twitter.com/paarugsethi'

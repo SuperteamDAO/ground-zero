@@ -1,5 +1,5 @@
 ---
-title: '⁉ Okay but, why are they even relevant?'
+title: "⁉ Okay but, why are they even relevant?"
 authors:
   - name: '@paarugsethi'
     url: 'https://twitter.com/paarugsethi'

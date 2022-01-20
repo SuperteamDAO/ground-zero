@@ -1,5 +1,5 @@
 ---
-title: '📺 Why are creators so bullish on them?'
+title: "📺 Why are creators so bullish on them?"
 authors:
   - name: '@paarugsethi'
     url: 'https://twitter.com/paarugsethi'

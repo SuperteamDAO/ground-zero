@@ -1,5 +1,5 @@
 ---
-title: '👀 Are there different kinds?'
+title: "👀 Are there different kinds?"
 authors:
   - name: '@paarugsethi'
     url: 'https://twitter.com/paarugsethi'

@@ -1,5 +1,5 @@
 ---
-title: '💸 Sending SOLs through browser JavaScript'
+title: "💸 Sending SOLs through browser JavaScript"
 authors:
   - name: '@rajkaria'
     url: 'https://github.com/rajkaria'

@@ -1,5 +1,5 @@
 ---
-title: '⛓ What is a blockchain?'
+title: "⛓ What is a blockchain?"
 authors:
   - name: '@abbas'
     url: 'https://twitter.com/Abbasshaikh42'

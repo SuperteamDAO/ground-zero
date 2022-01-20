@@ -1,5 +1,5 @@
 ---
-title: '🎮 How are NFTs and gaming related?'
+title: "🎮 How are NFTs and gaming related?"
 authors:
   - name: '@paarugsethi'
     url: 'https://twitter.com/paarugsethi'

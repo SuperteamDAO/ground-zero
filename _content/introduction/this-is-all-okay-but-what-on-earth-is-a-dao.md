@@ -1,5 +1,5 @@
 ---
-title: '🤔 This is all okay, but what on earth is a DAO?'
+title: "🤔 This is all okay, but what on earth is a DAO?"
 authors:
   - name: '@aditya'
     url: 'https://twitter.com/aditya'

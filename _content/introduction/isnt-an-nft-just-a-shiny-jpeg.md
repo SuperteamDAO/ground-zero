@@ -1,5 +1,5 @@
 ---
-title: '🎨 Isn’t an NFT just a shiny jpeg?'
+title: "🎨 Isn’t an NFT just a shiny jpeg?"
 authors:
   - name: '@paarugsethi'
     url: 'https://twitter.com/paarugsethi'

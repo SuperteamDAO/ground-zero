@@ -1,5 +1,5 @@
 ---
-title: '💎📉 What's the deal with DeFi?'
+title: "📉 What's the deal with DeFi?"
 authors:
   - name: '@paarugsethi'
     url: 'https://twitter.com/paarugsethi'

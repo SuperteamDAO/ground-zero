@@ -1,5 +1,5 @@
 ---
-title: '🎈 Will NFTs still be around in the future or the bubble will burst?'
+title: "🎈 Will NFTs still be around in the future or the bubble will burst?"
 authors:
   - name: '@paarugsethi'
     url: 'https://twitter.com/paarugsethi'

@@ -1,5 +1,5 @@
 ---
-title: '🖼 Can I get NFTs on Solana as well?'
+title: "🖼 Can I get NFTs on Solana as well?"
 authors:
   - name: '@paarugsethi'
     url: 'https://twitter.com/paarugsethi'
