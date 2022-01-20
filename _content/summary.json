@@ -224,6 +224,75 @@
   },
   {
     "order": 5,
+    "logo": "⚡",
+    "name": "Solana",
+    "path": "solana/README.md",
+    "url": "",
+    "pages": [
+      {
+        "order": 1,
+        "logo": "❓",
+        "name": "What is Solana?",
+        "path": "solana/what-is-solana.md"
+      },
+      {
+        "order": 2,
+        "logo": "🏛️",
+        "name": "Where did it come from?",
+        "path": "solana/history-of-solana.md"
+      },
+      {
+        "order": 3,
+        "logo": "💎",
+        "name": "How is it different from Ethereum?",
+        "path": "solana/different-from-eth.md"
+      },
+      {
+        "order": 4,
+        "logo": "8️⃣",
+        "name": "What are its major innovations?",
+        "path": "solana/innovations.md"
+      },
+      {
+        "order": 5,
+        "logo": "🤔",
+        "name": "What is Proof of History?",
+        "path": "solana/proof-of-history.md"
+      },
+      {
+        "order": 6,
+        "logo": "💰",
+        "name": "Tell me more about SOL",
+        "path": "solana/more-on-sol.md"
+      },
+      {
+        "order": 7,
+        "logo": "🏗️",
+        "name": "What are people building on it?",
+        "path": "solana/building.md"
+      },
+      {
+        "order": 8,
+        "logo": "🎆",
+        "name": "Shill me some projects in the ecosystem",
+        "path": "solana/projects.md"
+      },
+      {
+        "order": 9,
+        "logo": "🎨",
+        "name": "Does Solana have NFTs?",
+        "path": "solana/nfts-on-solana.md"
+      },
+      {
+        "order": 10,
+        "logo": "💻",
+        "name": "I can code. How do I get started?",
+        "path": "solana/dev-get-involved.md"
+      }
+    ]
+  },
+  {
+    "order": 6,
     "logo": "💻",
     "name": "Coding",
     "path": "coding/README.md",
