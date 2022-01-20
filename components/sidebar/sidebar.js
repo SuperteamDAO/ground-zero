@@ -8,11 +8,11 @@ function classNames(...classes) {
 export default function Sidebar({ contentList }) {
   const router = useRouter();
   const {asPath: url, query: { path }} = router;
-  const sortedContent = contentList.filter(page => !page.hide).sort((a,b) => a.order - b.order);
+  const sortedContent = contentList?.filter(page => !page.hide).sort((a,b) => a.order - b.order);
   return (
     <div className="pl-20 pr-6 py-6">
       {
-        sortedContent.map(page =>
+        sortedContent?.map(page =>
           (
             <Disclosure as="div" defaultOpen={path === page.url} key={page.name} className="space-y-1">
               {({ open }) => (
@@ -46,11 +46,11 @@ export default function Sidebar({ contentList }) {
                     leaveTo="transform scale-95 opacity-0"
                   >
                     <Disclosure.Panel className="pl-6 border-l border-accent mb-6">
-                      {page.pages.map(subPage => {
-                        const subPath = `/${subPage.path.replace(".md", "")}`;
+                      {page?.pages?.map(subPage => {
+                        const subPath = `/${subPage?.path?.replace(".md", "")}`;
                         return (
                           <a
-                            key={subPage.name}
+                            key={subPage?.name}
                             href={subPath}
                             className={classNames(
                               subPath === url
@@ -59,7 +59,7 @@ export default function Sidebar({ contentList }) {
                               'hover:text-secondary cursor-pointer w-full flex items-center justify-start pt-6 text-sm font-light font-heading'
                             )}
                           >
-                            <span className="mr-2">{subPage.logo}</span>{subPage.name}
+                            <span className="mr-2">{subPage?.logo}</span>{subPage?.name}
                           </a>
                         )
                       })}

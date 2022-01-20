@@ -9,13 +9,13 @@ export default function Page({ data, page }) {
   return (
     <>
       <div className="mb-8">
-        <h1 className="text-6xl font-heading font-extrabold text-accent">{data.title}</h1>
+        <h1 className="text-6xl font-heading font-extrabold text-accent">{data?.title}</h1>
         <div className="flex justify-start items-center">
           <p className="text-gray-400 text-sm font-button">By {
-            data.authors.map((author, index) => (
+            data?.authors?.map((author, index) => (
               <Fragment key={index}>
-                <a href={author.url} target="_blank" className="text-gray-400 hover:text-secondary hover:underline">{author.name}</a>
-                {index < data.authors.length - 2 ? ", " : index === data.authors.length - 2 ? " & " : ""}
+                <a href={author.url} target="_blank" className="text-gray-400 hover:text-secondary hover:underline">{author?.name}</a>
+                {index < data?.authors.length - 2 ? ", " : index === data?.authors.length - 2 ? " & " : ""}
               </Fragment>
             ))
           }</p>

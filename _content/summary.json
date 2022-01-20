@@ -4,7 +4,7 @@
     "order": 1,
     "logo": "🎓",
     "name": "About Ground Zero",
-    "path": "README.md",
+    "path": "about/ground-zero.md",
     "url": "",
     "pages": [],
     "hide": true
