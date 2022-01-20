@@ -1,8 +1,11 @@
-# ⛓ What is a blockchain?
-
-{% hint style="success" %}
-Contributors: [@abbas](https://twitter.com/Abbasshaikh42), [@mohitchawdhry](https://twitter.com/chawdhrymohit)
-{% endhint %}
+---
+title: '⛓ What is a blockchain?'
+authors:
+  - name: '@abbas'
+    url: 'https://twitter.com/Abbasshaikh42'
+  - name: '@mohitchawdhry'
+    url: 'https://twitter.com/chawdhrymohit'
+---
 
 An interesting analogy for understanding blockchain is a Google Doc.
 
@@ -14,7 +17,7 @@ Digital assets, most commonly Cryptocurrencies in Web3, are distributed instead 
 
 ## Here's a video to get you going
 
-{% embed url="https://www.youtube.com/watch?feature=emb_title&v=hYip_Vuv8J0" %}
+{% embed url="https://www.youtube.com/watch?v=hYip_Vuv8J0" %}
 
 ## Here's an article for a complete deep dive dive
 

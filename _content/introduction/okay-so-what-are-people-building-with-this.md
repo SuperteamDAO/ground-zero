@@ -1,8 +1,9 @@
-# 🏗 Okay, so what are people building with this?
-
-{% hint style="success" %}
-Contributors: [@aditya](https://twitter.com/aditay7s)
-{% endhint %}
+---
+title: '🏗 Okay, so what are people building with this?'
+authors:
+  - name: '@aditya'
+    url: 'https://twitter.com/aditya'
+---
 
 Ever since Satoshi Nakamoto came up with Bitcoin back in 2009, Blockchain technology's popularity has skyrocketed in the world due to its decentralised, immutable and completely transparent nature.
 
@@ -28,7 +29,7 @@ Creators and companies have hopped on the NFT train because it can protect their
 
 ## Here's a video to get you going
 
-{% embed url="https://www.youtube.com/watch?v=l3ptz8qvZcg&feature=emb_title" %}
+{% embed url="https://www.youtube.com/watch?v=l3ptz8qvZcg" %}
 
 ## Here's an article for a complete deep dive
 

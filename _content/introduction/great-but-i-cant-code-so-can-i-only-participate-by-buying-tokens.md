@@ -1,8 +1,9 @@
-# Great but I can't code, so can I only participate by buying tokens?
-
-{% hint style="success" %}
-Contributors: [@aditya](https://twitter.com/aditay7s)
-{% endhint %}
+---
+title: '💎 Great but I can't code, so can I only participate by buying tokens?'
+authors:
+  - name: '@aditya'
+    url: 'https://twitter.com/aditay7s'
+---
 
 No, welcome to the SuperTeamDAO 🙂
 

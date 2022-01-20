@@ -17,13 +17,13 @@ In other words, you can think of Ethereum as a large decentralized supercomputer
 
 Its general-purpose nature has seen it become the preferred blockchain for most web3 developers. Indeed, its token ETH has the second-largest market capitalisation after Bitcoin.
 
-Learn about Ethereum and how it works using the resources below!  
+Learn about Ethereum and how it works using the resources below!
 
 ## Here's a video to get you going
 
-{% embed url="https://www.youtube.com/watch?v=gh5b-MzDl6I&feature=emb_title" %}
+{% embed url="https://www.youtube.com/watch?v=gh5b-MzDl6I" %}
 
-{% embed url="https://www.youtube.com/watch?v=jxLkbJozKbY&feature=emb_title" %}
+{% embed url="https://www.youtube.com/watch?v=jxLkbJozKbY" %}
 
 ## Here's an article for a complete deep dive
 

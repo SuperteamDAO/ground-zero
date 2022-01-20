@@ -1,8 +1,9 @@
-# ⌛ How did they even come about?
-
-{% hint style="success" %}
-Contributors: [@paarugsethi](https://twitter.com/paarugsethi)
-{% endhint %}
+---
+title: '⌛ How did they even come about?'
+authors:
+  - name: '@paarugsethi'
+    url: 'https://twitter.com/paarugsethi'
+---
 
 Vitalik Buterin was the first to mention Decentralised Autonomous Organisations in the introductory paragraph of the Ethereum Whitepaper. He also wrote a blog on these corporations back in 2013.
 
@@ -12,7 +13,7 @@ It raised $150 million in ETH and was hacked with $60 million stolen. This hack 
 
 ## Here's a video to get you going
 
-{% embed url="https://www.youtube.com/watch?v=ZjX6BLiiDh8&feature=emb_title" %}
+{% embed url="https://www.youtube.com/watch?v=ZjX6BLiiDh8" %}
 
 ## Here's an article for a complete deep dive
 

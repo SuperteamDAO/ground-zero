@@ -1,8 +1,9 @@
-# 🎈 Will NFTs still be around in the future or the bubble will burst?
-
-{% hint style="success" %}
-Contributors: [@paarugsethi](https://twitter.com/paarugsethi)
-{% endhint %}
+---
+title: '🎈 Will NFTs still be around in the future or the bubble will burst?'
+authors:
+  - name: '@paarugsethi'
+    url: 'https://twitter.com/paarugsethi'
+---
 
 **NFTs are here to stay.**
 
@@ -18,7 +19,7 @@ Authenticity and provable scarcity on-chain will make tokens the final stamps of
 
 ## Here's a video to get you going
 
-{% embed url="https://www.youtube.com/watch?v=GE64uiikt4I&feature=emb_title" %}
+{% embed url="https://www.youtube.com/watch?v=GE64uiikt4I" %}
 
 ## Here's an article for a complete deep dive
 

@@ -1,8 +1,9 @@
-# 🎨 Isn’t an NFT just a shiny jpeg?
-
-{% hint style="success" %}
-Contributors: [@paarugsethi](https://twitter.com/paarugsethi)
-{% endhint %}
+---
+title: '🎨 Isn’t an NFT just a shiny jpeg?'
+authors:
+  - name: '@paarugsethi'
+    url: 'https://twitter.com/paarugsethi'
+---
 
 **And then, there were NFTs.**
 
@@ -23,9 +24,9 @@ But that isn't it. NFTs have proven to be one of the most versatile digital asse
 
 ## Here's a video to get you going
 
-{% embed url="https://www.youtube.com/watch?v=nYkVezRnF9M&feature=emb_title" %}
+{% embed url="https://www.youtube.com/watch?v=nYkVezRnF9M" %}
 
-{% embed url="https://www.youtube.com/watch?v=Oz9zw7-_vhM&feature=emb_title" %}
+{% embed url="https://www.youtube.com/watch?v=Oz9zw7-_vhM" %}
 
 ## Here's an article for a complete deep dive
 

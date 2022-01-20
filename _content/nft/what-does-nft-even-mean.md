@@ -1,8 +1,9 @@
-# ⁉ What does NFT even mean?
-
-{% hint style="success" %}
-Contributors: [@paarugsethi](https://twitter.com/paarugsethi)
-{% endhint %}
+---
+title: '⁉ What does NFT even mean?'
+authors:
+  - name: '@paarugsethi'
+    url: 'https://twitter.com/paarugsethi'
+---
 
 Before jumping into NFTs or Non-Fungible tokens, let us understand what fungibility is.
 
@@ -26,7 +27,7 @@ But NFTs can represent other digital items like in-game items, songs, videos, co
 
 ## Here's a video to get you going
 
-{% embed url="https://www.youtube.com/watch?v=WOxYlBTRncY&feature=emb_title" %}
+{% embed url="https://www.youtube.com/watch?v=WOxYlBTRncY" %}
 
 ## Here's an article for a complete deep dive
 

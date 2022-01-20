@@ -1,8 +1,9 @@
-# 🎮 How are NFTs and gaming related?
-
-{% hint style="success" %}
-Contributors: [@paarugsethi](https://twitter.com/paarugsethi)
-{% endhint %}
+---
+title: '🎮 How are NFTs and gaming related?'
+authors:
+  - name: '@paarugsethi'
+    url: 'https://twitter.com/paarugsethi'
+---
 
 The Gaming industry has probably gained the most out of the NFT Boom that we've witnessed over the last couple of years.
 
@@ -16,7 +17,7 @@ From gun skins to digital property, gaming and NFTs are a match made in the Meta
 
 ## Here's a video to get you going
 
-{% embed url="https://www.youtube.com/watch?v=M99ywP_6Ljc&feature=emb_title" %}
+{% embed url="https://www.youtube.com/watch?v=M99ywP_6Ljc" %}
 
 ## Here's an article for a complete deep dive
 

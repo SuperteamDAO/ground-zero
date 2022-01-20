@@ -1,8 +1,9 @@
-# 🏗 How do I go about making one of my own?
-
-{% hint style="success" %}
-Contributors: [@paarugsethi](https://twitter.com/paarugsethi)
-{% endhint %}
+---
+title: '🏗 How do I go about making one of my own?'
+authors:
+  - name: '@paarugsethi'
+    url: 'https://twitter.com/paarugsethi'
+---
 
 If the goal of the DAO you propose to build is set in stone and has a product-market fit, you're definitely gmi. The interesting part here, like any new venture, is that there is no fixed playbook to starting a DAO.
 
@@ -14,7 +15,7 @@ The most important part of building a DAO, however, still remains the community.
 
 ## Here's a video to get you going
 
-{% embed url="https://www.youtube.com/watch?v=KMI_aGw2Cts&feature=emb_title" %}
+{% embed url="https://www.youtube.com/watch?v=KMI_aGw2Cts" %}
 
 ## Here's an article for a complete deep dive
 

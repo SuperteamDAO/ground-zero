@@ -1,5 +1,6 @@
 module.exports = {
   content: ['./components/**/*.js', './pages/**/*.js'],
+  safelist: ['mb-10', 'bg-white', 'overflow-hidden', 'shadow-lg', 'shadow-secondary-500/40', 'rounded-lg', 'px-4', 'py-6'],
   theme: {
     extend: {
       fontFamily: {

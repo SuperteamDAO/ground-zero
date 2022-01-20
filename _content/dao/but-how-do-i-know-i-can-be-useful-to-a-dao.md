@@ -1,8 +1,9 @@
-# 🙋♀ But how do I know I can be useful to a DAO?
-
-{% hint style="success" %}
-Contributors: [@paarugsethi](https://twitter.com/paarugsethi)
-{% endhint %}
+---
+title: '🙋‍♀️ But how do I know I can be useful to a DAO?'
+authors:
+  - name: '@paarugsethi'
+    url: 'https://twitter.com/paarugsethi'
+---
 
 So you've joined a DAO but now you have no idea how to get involved.
 
@@ -14,7 +15,7 @@ A DAO may also have a list of tasks to be done in their database for people to p
 
 ## Here's a video to get you going
 
-{% embed url="https://www.youtube.com/watch?v=JR0gZARSgxE&feature=emb_title" %}
+{% embed url="https://www.youtube.com/watch?v=JR0gZARSgxE" %}
 
 ## Here's an article for a complete deep dive
 

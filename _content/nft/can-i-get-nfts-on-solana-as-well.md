@@ -1,8 +1,9 @@
-# 🖼 Can I get NFTs on Solana as well?
-
-{% hint style="success" %}
-Contributors: [@paarugsethi](https://twitter.com/paarugsethi)
-{% endhint %}
+---
+title: '🖼 Can I get NFTs on Solana as well?'
+authors:
+  - name: '@paarugsethi'
+    url: 'https://twitter.com/paarugsethi'
+---
 
 *Yes, you most certainly can.*
 
@@ -12,7 +13,7 @@ Solana offers a lot to the degen NFT Collector due to its high-speed transaction
 
 ## Here's a video to get you going
 
-{% embed url="https://www.youtube.com/watch?v=F1uv3XxXuxs&feature=emb_title" %}
+{% embed url="https://www.youtube.com/watch?v=F1uv3XxXuxs" %}
 
 ## Here's an article for a complete deep dive
 

@@ -1,8 +1,11 @@
-# 💰 Will I get a DAO token?
-
-{% hint style="success" %}
-Contributors: [@paarugsethi](https://twitter.com/paarugsethi), [@namanchordia](https://twitter.com/namanchordia19)
-{% endhint %}
+---
+title: '💰 Will I get a DAO token?'
+authors:
+  - name: '@paarugsethi'
+    url: 'https://twitter.com/paarugsethi'
+  - name: '@namanchordia'
+    url: 'https://twitter.com/namanchordia19'
+---
 
 **Well, it depends.**
 

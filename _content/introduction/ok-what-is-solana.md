@@ -1,8 +1,11 @@
-# ⚡ Ok, What is Solana?
-
-{% hint style="success" %}
-Contributors: [@paarugsethi](https://twitter.com/paarugsethi), [@mohitchawdhry](https://twitter.com/chawdhrymohit)
-{% endhint %}
+---
+title: '⚡ Ok, What is Solana?'
+authors:
+  - name: '@paarugsethi'
+    url: 'https://twitter.com/paarugsethi'
+  - name: '@mohitchawdhry'
+    url: 'https://twitter.com/chawdhrymohit'
+---
 
 Solana, like Ethereum, is a layer-1 blockchain (L1). An L1 provides the infrastructure or pipelines on which all kinds of dApps, Smart Contracts and decentralized exchanges can be deployed.
 
@@ -16,9 +19,9 @@ Learn about Solana and how it works from its founder, Anatoly, in the video belo
 
 ## Here's a video to get you going
 
-{% embed url="https://www.youtube.com/watch?v=_H6mNSKbKug&feature=emb_title" %}
+{% embed url="https://www.youtube.com/watch?v=_H6mNSKbKug" %}
 
-{% embed url="https://www.youtube.com/watch?v=rywOYfGu4EA&feature=emb_title" %}
+{% embed url="https://www.youtube.com/watch?v=rywOYfGu4EA" %}
 
 ## Here's an article for a complete deep dive
 

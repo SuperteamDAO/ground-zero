@@ -1,8 +1,9 @@
-# 👀 Are there different kinds?
-
-{% hint style="success" %}
-Contributors: [@paarugsethi](https://twitter.com/paarugsethi)
-{% endhint %}
+---
+title: '👀 Are there different kinds?'
+authors:
+  - name: '@paarugsethi'
+    url: 'https://twitter.com/paarugsethi'
+---
 
 DAOs have grown exponentially in number as well as types in the past couple of years and continue to do so.
 
@@ -23,7 +24,7 @@ This list by [Cooper Turley](https://twitter.com/Cooopahtroopa) encompasses all 
 
 ## Here's a video to get you going
 
-{% embed url="https://www.youtube.com/watch?v=-2E8RUMTjQs&feature=emb_title" %}
+{% embed url="https://www.youtube.com/watch?v=-2E8RUMTjQs" %}
 
 ## Here's an article for a complete deep dive
 

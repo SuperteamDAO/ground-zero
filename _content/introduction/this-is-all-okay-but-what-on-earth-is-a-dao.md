@@ -1,8 +1,11 @@
-# 🤔 This is all okay, but what on earth is a DAO?
-
-{% hint style="success" %}
-Contributors: [@aditya](https://twitter.com/aditay7s), [@paarugsethi](https://twitter.com/paarugsethi)
-{% endhint %}
+---
+title: '🤔 This is all okay, but what on earth is a DAO?'
+authors:
+  - name: '@aditya'
+    url: 'https://twitter.com/aditya'
+  - name: '@paarugsethi'
+    url: 'https://twitter.com/paarugsethi'
+---
 
 In the world of web3, they say if 2021 was the year of NFTs, 2022 will be the year of DAOs. So better be prepared for it and start with what a DAO even is.
 
@@ -18,7 +21,7 @@ DAOs are posed to change the way people work at organisations forever. No CVs re
 
 ## Here's a video to get you going
 
-{% embed url="https://www.youtube.com/watch?v=dZ4o6wma4js&feature=emb_title" %}
+{% embed url="https://www.youtube.com/watch?v=dZ4o6wma4js" %}
 
 ## Here's an article for a complete deep dive
 

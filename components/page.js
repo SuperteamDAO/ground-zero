@@ -10,7 +10,7 @@ export default function Page({ data, page }) {
     <>
       {(data?.title ||data?.authors) && (
         <div className="mb-8">
-          {data?.title && (<h1 className="text-6xl font-heading font-extrabold text-accent">{data?.title}</h1>)}
+          {data?.title && (<h1 className="text-6xl font-heading font-extrabold text-white">{data?.title}</h1>)}
           {data?.authors && (<div className="flex justify-start items-center">
             <p className="text-gray-400 text-sm font-button">By {
               data?.authors?.map((author, index) => (

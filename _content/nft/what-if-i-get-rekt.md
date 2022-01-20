@@ -1,8 +1,9 @@
-# 📉 What if I get rekt?
-
-{% hint style="success" %}
-Contributors: [@paarugsethi](https://twitter.com/paarugsethi)
-{% endhint %}
+---
+title: '📉 What if I get rekt?'
+authors:
+  - name: '@paarugsethi'
+    url: 'https://twitter.com/paarugsethi'
+---
 
 As bullish we are on NFTs as a concept, the reality of the matter is that most of the projects out there are going to fail in the future.
 
@@ -14,7 +15,7 @@ Buy what you genuinely like, and only what you can afford. Staying away from FOM
 
 ## Here's a video to get you going
 
-{% embed url="https://www.youtube.com/watch?v=5c4Iu-EwqHs&feature=emb_title" %}
+{% embed url="https://www.youtube.com/watch?v=5c4Iu-EwqHs" %}
 
 ## Here's an article for a complete deep dive
 

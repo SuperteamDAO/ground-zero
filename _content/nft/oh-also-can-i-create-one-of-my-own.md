@@ -1,8 +1,11 @@
-# 🎨 Oh also, can I create one of my own?
-
-{% hint style="success" %}
-Contributors: [@rajkaria](https://twitter.com/rajkaria_), [@paarugsethi](https://twitter.com/paarugsethi)
-{% endhint %}
+---
+title: '🎨 Oh also, can I create one of my own?'
+authors:
+  - name: '@rajkaria'
+    url: 'https://twitter.com/rajkaria_'
+  - name: '@paarugsethi'
+    url: 'https://twitter.com/paarugsethi'
+---
 
 **Yes, you can!**
 
@@ -16,7 +19,7 @@ It's that simple!
 
 ## Here's a video to get you going
 
-{% embed url="https://www.youtube.com/watch?v=GaQz70xo3b8&feature=emb_title" %}
+{% embed url="https://www.youtube.com/watch?v=GaQz70xo3b8" %}
 
 ## Here's an article for a complete deep dive
 

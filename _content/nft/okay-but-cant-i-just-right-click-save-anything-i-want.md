@@ -1,8 +1,9 @@
-# 🤷♀ Okay but can’t I just right-click save anything I want?
-
-{% hint style="success" %}
-Contributors: [@paarugsethi](https://twitter.com/paarugsethi)
-{% endhint %}
+---
+title: '🤷♀ Okay but can’t I just right-click save anything I want?'
+authors:
+  - name: '@paarugsethi'
+    url: 'https://twitter.com/paarugsethi'
+---
 
 **Well, you could, but that's not the point.**
 
@@ -16,7 +17,7 @@ Not to mention, NFTs offer myriad utilities on top of them as well. They're scar
 
 ## Here's a video to get you going
 
-{% embed url="https://www.youtube.com/watch?v=W6S0364ZhaA&feature=emb_title" %}
+{% embed url="https://www.youtube.com/watch?v=W6S0364ZhaA" %}
 
 ## Here's an article for a complete deep dive
 

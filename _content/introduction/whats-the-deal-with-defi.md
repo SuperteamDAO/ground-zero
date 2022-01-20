@@ -1,8 +1,9 @@
-# 📉 What's the deal with DeFi?
-
-{% hint style="success" %}
-Contributors: [@paarugsethi](https://twitter.com/paarugsethi)
-{% endhint %}
+---
+title: '💎📉 What's the deal with DeFi?'
+authors:
+  - name: '@paarugsethi'
+    url: 'https://twitter.com/paarugsethi'
+---
 
 Imagine if just like social media allows you to connect with anyone in the world, you could also bank with anyone in the world, i.e. borrow, lend, invest etc. This novel idea is a reality now but it comes with challenges specifically on risk management.
 
@@ -10,9 +11,9 @@ The promise of DeFi is that monetary policy is codified, access is permissionles
 
 ## Here's a video to get you going
 
-{% embed url="https://www.youtube.com/watch?v=17QRFlml4pA&feature=emb_title" %}
+{% embed url="https://www.youtube.com/watch?v=17QRFlml4pA" %}
 
-{% embed url="https://www.youtube.com/watch?v=H-O3r2YMWJ4&feature=emb_title" %}
+{% embed url="https://www.youtube.com/watch?v=H-O3r2YMWJ4" %}
 
 ## Here's an article for a complete deep dive
 

@@ -1,8 +1,9 @@
-# 🌆 What is the Metaverse?
-
-{% hint style="success" %}
-Contributors: [@paarugsethi](https://twitter.com/paarugsethi)
-{% endhint %}
+---
+title: '🌆 What is the Metaverse?'
+authors:
+  - name: '@paarugsethi'
+    url: 'https://twitter.com/paarugsethi'
+---
 
 Addressing the elephant in the room here.
 
@@ -20,7 +21,7 @@ This changes everything. The breadth and depth that the digital universe can go 
 
 ## Here's a video to get you going
 
-{% embed url="https://www.youtube.com/watch?v=wU7CTDVHHN8&feature=emb_title" %}
+{% embed url="https://www.youtube.com/watch?v=wU7CTDVHHN8" %}
 
 ## Here's an article for a complete deep dive
 

@@ -1,8 +1,9 @@
-# ⁉ Okay but, why are they even relevant?
-
-{% hint style="success" %}
-Contributors: [@paarugsethi](https://twitter.com/paarugsethi)
-{% endhint %}
+---
+title: '⁉ Okay but, why are they even relevant?'
+authors:
+  - name: '@paarugsethi'
+    url: 'https://twitter.com/paarugsethi'
+---
 
 *DAOs pose to change the way organisations, as well as individuals, work in the future.*
 
@@ -14,7 +15,7 @@ In a world in which capital and labour are abundant, DAOs will end up filtering 
 
 ## Here's a video to get you going
 
-{% embed url="https://www.youtube.com/watch?v=dZ4o6wma4js&feature=emb_title" %}
+{% embed url="https://www.youtube.com/watch?v=dZ4o6wma4js" %}
 
 ## Here's an article for a complete deep dive
 

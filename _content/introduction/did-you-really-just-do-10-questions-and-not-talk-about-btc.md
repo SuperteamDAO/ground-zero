@@ -1,8 +1,9 @@
-# 💰 Did you really just do 10 questions and not talk about BTC?
-
-{% hint style="success" %}
-Contributors: [@aditya](https://twitter.com/aditay7s)
-{% endhint %}
+---
+title: '💰 Did you really just do 10 questions and not talk about BTC?'
+authors:
+  - name: '@aditya'
+    url: 'https://twitter.com/aditay7s'
+---
 
 Think of Bitcoin as an open monetary network and the blockchain as a public decentralized ledger that is maintained by millions across the globe. This ensures that no single person, government, or authority can shut Bitcoin down.
 
@@ -26,7 +27,7 @@ This applies to Bitcoin as well. Bitcoin has a definite supply of 21 Million BTC
 
 ## Here's a video to get you going
 
-{% embed url="https://www.youtube.com/watch?v=QzvRxoJCaRA&feature=emb_title" %}
+{% embed url="https://www.youtube.com/watch?v=QzvRxoJCaRA" %}
 
 {% embed url="https://www.youtube.com/watch?v=BrMJVVR4X7w" %}
 

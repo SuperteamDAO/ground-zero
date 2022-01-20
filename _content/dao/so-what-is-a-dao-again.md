@@ -1,8 +1,11 @@
-# 🤔 So what is a DAO again?
-
-{% hint style="success" %}
-Contributors: [@paarugsethi](https://twitter.com/paarugsethi), [@namanchordia](https://twitter.com/namanchordia19)
-{% endhint %}
+---
+title: '🤔 So what is a DAO again?'
+authors:
+  - name: '@paarugsethi'
+    url: 'https://twitter.com/paarugsethi'
+  - name: '@namanchordia'
+    url: 'https://twitter.com/namanchordia19'
+---
 
 A DAO is often described as sort of a “Reddit community with a bank account.”
 
@@ -18,7 +21,7 @@ Another key feature of how a DAO functions is the distribution of the decision m
 
 ## Here's a video to get you going
 
-{% embed url="https://www.youtube.com/watch?v=8VFg67z7XYQ&feature=emb_title" %}
+{% embed url="https://www.youtube.com/watch?v=8VFg67z7XYQ" %}
 
 ## Here's an article for a complete deep dive
 

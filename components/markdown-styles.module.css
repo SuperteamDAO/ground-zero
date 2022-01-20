@@ -3,7 +3,7 @@
 }
 
 .markdown h1 {
-  @apply text-6xl font-heading font-extrabold mb-8 text-accent;
+  @apply text-6xl font-heading font-extrabold mb-8 text-white;
 }
 
 .markdown h2 {

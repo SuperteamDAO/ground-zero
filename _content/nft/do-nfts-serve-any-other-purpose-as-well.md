@@ -1,8 +1,9 @@
-# 🏗 Do NFTs serve any other purpose as well?
-
-{% hint style="success" %}
-Contributors: [@paarugsethi](https://twitter.com/paarugsethi)
-{% endhint %}
+---
+title: '🏗 Do NFTs serve any other purpose as well?'
+authors:
+  - name: '@paarugsethi'
+    url: 'https://twitter.com/paarugsethi'
+---
 
 - Artists
 - Gaming
@@ -16,7 +17,7 @@ Contributors: [@paarugsethi](https://twitter.com/paarugsethi)
 
 ## Here's a video to get you going
 
-{% embed url="https://www.youtube.com/watch?v=nsZQ73UOB4w&feature=emb_title" %}
+{% embed url="https://www.youtube.com/watch?v=nsZQ73UOB4w" %}
 
 ## Here's an article for a complete deep dive
 

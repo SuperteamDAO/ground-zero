@@ -1,8 +1,9 @@
-# ❓ How is it useful ?
-
-{% hint style="success" %}
-Contributors: [@paarugsethi](https://twitter.com/paarugsethi)
-{% endhint %}
+---
+title: '❓ How is it useful ?'
+authors:
+  - name: '@paarugsethi'
+    url: 'https://twitter.com/paarugsethi'
+---
 
 Imagine if a company like Spotify was owned and operated by a group of artists, producers, listeners - and the more time and creativity you put into the platform the larger your ownership of it. This kind of large scale coordination is now possible in ways it wasn’t before.
 
@@ -12,11 +13,11 @@ This means all the products as we know them today can be re-created and improved
 
 ## Here's a video to get you going
 
-{% embed url="https://www.youtube.com/watch?v=Yo-BrASMHU4&feature=emb_title" %}
+{% embed url="https://www.youtube.com/watch?v=Yo-BrASMHU4" %}
 
 ## Bonus Podcast
 
-{% embed url="https://www.youtube.com/watch?v=DlNDYMNJ5zQ&feature=emb_title" %}
+{% embed url="https://www.youtube.com/watch?v=DlNDYMNJ5zQ" %}
 
 ## Here's an article for a complete deep dive
 
