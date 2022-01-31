@@ -8,11 +8,11 @@ We accomplish this by curating info about various topics with a quick summary, w
 
 ### Topics Covered
 
-[![https://groundzero.superteam.fun/introduction](/images/Intro\_Ground\_Zero.png)](https://groundzero.superteam.fun/introduction)
+[![https://groundzero.superteam.fun/introduction/what-is-a-blockchain](/images/Intro\_Ground\_Zero.png)](https://groundzero.superteam.fun/introduction/what-is-a-blockchain)
 
-[![https://groundzero.superteam.fun/dao](/images/Ground\_Zero\_Option\_2\_1.png)](https://groundzero.superteam.fun/dao)
+[![https://groundzero.superteam.fun/dao/so-what-is-a-dao-again](/images/Ground\_Zero\_Option\_2\_1.png)](https://groundzero.superteam.fun/dao/so-what-is-a-dao-again)
 
-[![https://groundzero.superteam.fun/nft](/images/NFT\_Ground\_Zero.png)](https://groundzero.superteam.fun/nft)
+[![https://groundzero.superteam.fun/nft/what-does-nft-even-mean](/images/NFT\_Ground\_Zero.png)](https://groundzero.superteam.fun/nft/what-does-nft-even-mean)
 
 ### Core Contributors
 
