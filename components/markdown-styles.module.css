@@ -24,3 +24,7 @@
 .markdown blockquote {
   @apply my-6;
 }
+
+.markdown code {
+  @apply whitespace-pre-wrap;
+}
