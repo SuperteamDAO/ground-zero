@@ -5,12 +5,12 @@ function classNames(...classes) {
   return classes.filter(Boolean).join(' ')
 }
 
-export default function Sidebar({ contentList }) {
+export default function Sidebar({ contentList, viewType }) {
   const router = useRouter();
   const {asPath: url, query: { path }} = router;
   const sortedContent = contentList?.filter(page => !page.hide).sort((a,b) => a.order - b.order);
   return (
-    <div className="pl-20 pr-6 py-6">
+    <div className={`${viewType === "nav" ? 'pl-0' : 'pl-20'} pr-6 py-6`}>
       {
         sortedContent?.map(page =>
           (
