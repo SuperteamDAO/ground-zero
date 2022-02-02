@@ -15,7 +15,7 @@ export default function MyApp({ Component, pageProps }) {
           site_name: 'Ground Zero',
           images: [
             {
-              url: '/images/bg-image.jpeg',
+              url: 'https://groundzero.superteam.fun/images/bg-image.jpeg',
               width: 800,
               height: 600,
               alt: 'Ground Zero',
