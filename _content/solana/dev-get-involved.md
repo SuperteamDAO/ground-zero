@@ -7,9 +7,9 @@ authors:
 
 Well you're really entering a paradise of innovation if you're a developer entering the Solana Ecosystem at the moment.
 
-Solana uses Rust as its programming language which gives it its high programmability as compared to Ethereum's Rust.
+Solana uses [Rust](https://www.rust-lang.org/) as its programming language which gives it its high programmability as compared to Ethereum's [Solidity](https://docs.soliditylang.org/en/v0.8.13/).
 
-There are a number of resources you can check out to get upto speed with how to build on Solana and many of them are also backed by thriving communities filled with founders and builders working on new things everyday.
+There are a number of resources you can check out to get up to speed with how to build on Solana and many are backed by thriving communities filled with founders and builders working on new things every day.
 
 **Check out the resources available on Solana's official website [here](https://solana.com/developers) and get started with your coding journey on Solana!**
 
