@@ -15,7 +15,7 @@ export default function Sidebar({ contentList, viewType }) {
 		?.filter((page) => !page.hide)
 		.sort((a, b) => a.order - b.order);
 	return (
-		<div className={`${viewType === 'nav' ? 'pl-0' : 'pl-[min(20%,4rem)]'} pr-6 py-6`}>
+		<div className={`${viewType === 'nav' ? 'pl-0' : 'pl-8'} pr-6 py-6`}>
 			{sortedContent?.map((page) => (
 				<Disclosure
 					as='div'
@@ -27,11 +27,11 @@ export default function Sidebar({ contentList, viewType }) {
 							<Disclosure.Button
 								className={classNames(
 									open ? 'text-secondary' : 'text-white',
-									'hover:text-secondary cursor-pointer w-full flex items-center justify-between pt-8 text-2xl font-medium font-heading'
+									'hover:text-secondary cursor-pointer w-full flex items-center justify-between pt-8 text-xl font-medium font-heading'
 								)}>
-								<div>
-									<span className='mr-2'>{page.logo}</span>
-									{page.name}
+								<div className='flex'>
+									<span className='w-10'>{page.logo}</span>
+									<p>{page.name}</p>
 								</div>
 								<div>
 									<svg
@@ -70,10 +70,12 @@ export default function Sidebar({ contentList, viewType }) {
 													subPath === url
 														? 'text-secondary'
 														: 'text-white',
-													'hover:text-secondary cursor-pointer w-full flex items-center justify-start pt-6 text-sm font-light font-heading'
+													'hover:text-secondary cursor-pointer flex items-center pt-6 text-sm font-light font-heading'
 												)}>
-												<span className='mr-2'>{subPage?.logo}</span>
-												{subPage?.name}
+												<p className='w-8'>{subPage?.logo}</p>
+												<p className='min-width-0 basis-0 grow'>
+													{subPage?.name}
+												</p>
 											</a>
 										);
 									})}
