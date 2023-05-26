@@ -25,7 +25,7 @@ How can you talk about the blockchain and not mention NFTs?
 
 Non-Fungible Tokens are unique pieces of code on the blockchain that represent digital art, music, piece of code and anything and everything you could think of. These can be traded on the blockchain, and provide ownership to the creator of their digital property.
 
-Creators and companies have hopped on the NFT train because it can protect their intellectual property, maintain data integrity, target the right customers, and ensure that artists receive their royalty payments in due time.a
+Creators and companies have hopped on the NFT train because it can protect their intellectual property, maintain data integrity, target the right customers, and ensure that artists receive their royalty payments in due time.
 
 ## Here's a video to get you going
 
