@@ -7,7 +7,7 @@ authors:
 
 Ever since Satoshi Nakamoto came up with Bitcoin back in 2009, Blockchain technology's popularity has skyrocketed in the world due to its decentralised, immutable and completely transparent nature.
 
-And the use cases are not limited to just cryptocurrencies, Blockchain right now is being in a ton of industries ranging from BFSI, healthcare, education to real estate, supply chain & logistics, IoT etc. These are some of the use cases that might be worth mentioning.
+And the use cases are not limited to just cryptocurrencies, Blockchain right now is being used in a ton of industries ranging from BFSI, healthcare, education to real estate, supply chain & logistics, IoT etc. These are some of the use cases that might be worth mentioning.
 
 ### Smart Contracts
 
