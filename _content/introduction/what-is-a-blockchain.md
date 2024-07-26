@@ -19,7 +19,7 @@ Digital assets, most commonly Cryptocurrencies in Web3, are distributed instead 
 
 {% embed url="https://www.youtube.com/watch?v=hYip_Vuv8J0" %}
 
-## Here's an article for a complete deep dive dive
+## Here's an article for a complete deep dive
 
 {% embed url="https://medium.com/mit-technology-review/what-is-a-blockchain-9faa44b32693" %}
 
