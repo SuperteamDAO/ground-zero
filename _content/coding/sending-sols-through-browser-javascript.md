@@ -12,13 +12,13 @@ Now that we have figured out how to connect the wallet to our website. Let's see
 Prerequisites:
 
 ```javascript
-yarn add @solana/web3.js
+yarn add @solana/web3.js@1
 ```
 
 OR
 
 ```javascript
-npm i @solana/web3.js
+npm i @solana/web3.js@1
 ```
 
 Let's import some constructors from this module:
